@@ -8,7 +8,9 @@
   "app": {
     "background": {
       "scripts": ["background.js"]
-    }lol
+      {}
+    
+    }
     
   },
   "minimum_chrome_version": "28"
