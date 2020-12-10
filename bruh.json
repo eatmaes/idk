@@ -1,0 +1,14 @@
+{  "manifest_version": 2,
+  "name": "bruh",
+  "version": "1",
+  "icons": {
+    "128": "ico.png"
+  },
+  "permissions": [],
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "minimum_chrome_version": "28"
+}
